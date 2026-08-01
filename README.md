@@ -11,18 +11,18 @@
 Employee Data
 ---------------
 @relation employee
-@attribute name {x,y,z,a,b}
+@attribute name {Priyanka ,sai, Aasrith, sri, Ram}
 @attribute id numeric
-@attribute salary {low,medium,high}
+@attribute salary {low, medium, high}
 @attribute exp numeric
-@attribute gender {male,female}
+@attribute gender {male, female}
 @attribute phone numeric
 @data
-x,101,low,2,male,250311
-y,102,high,3,female,251665
-z,103,medium,1,male,240238
-a,104,low,5,female,200200
-b,105,high,2,male,240240
+Priyanka,101,low,2,male,250311
+Sai,102,high,3,female,251665
+Aasrith,103,medium,1,male,240238
+Sri,104,low,5,female,200200
+Ram,105,high,2,male,240240
 
 --------------
 Weather Data
